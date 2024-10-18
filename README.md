@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## ola sou Davi e to estudando no alura👋
+![/storage/emulated/0/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Animated Gifs/VID-20241008-WA0026.mp4/storage/emulated/0/Android/media/com.whatsapp/WhatsApp/Media/WhatsApp Animated Gifs/VID-20241008-WA0026.mp4](link)
 <!--
 **Davi030707/Davi030707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
